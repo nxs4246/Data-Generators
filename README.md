@@ -14,5 +14,4 @@ More info on openpyxl: https://openpyxl.readthedocs.io/en/stable/
 
     This program generates 100 random time intervals from 9am to 6pm with the difference between consecutive time intervals to be between 200 seconds to 350 seconds. The bounds can be changed to show exponential distribution according to your need. The generated data is stored in a datasheet.
 
-TEST
-    
+I created this python script for my statistics class. The data generated using this program may not resemble real world statistics; thus, should not be used for any scientific study. Use at your own discretion. 
